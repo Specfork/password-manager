@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/password-manager"
 summary: Offline desktop password manager. One encrypted vault file in the open KDBX 4 format; entries, generator, TOTP, auto-type, auto-lock, clipboard clearing, history, import, export, merge.
 license: CC-BY-4.0
+tags: [desktop, security]
 derived_from:
   repo: https://github.com/keepassxreboot/keepassxc
   commit: d5e43b779d5e23c23963d53b806dcda5dd38f50e
